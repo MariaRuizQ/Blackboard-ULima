@@ -54,9 +54,13 @@ Rediseño del Blackboard ULima, el reto propuesto consiste en hacer de esta Plat
 * ¿Qué debe proveer, el Blackboard ULima?
 
   Enseñanza y aprendizaje.
+
   Copnstrucción de comunidades.
+
   Manejo y colaboración de contenido.
+
   Experiencias colaborativas.
+  
   Compromiso de mejora constante.
 
 ## C. Ideación
