@@ -60,7 +60,33 @@ Rediseño del Blackboard ULima, el reto propuesto consiste en hacer de esta Plat
   Manejo y colaboración de contenido.
 
   Experiencias colaborativas.
-  
+
   Compromiso de mejora constante.
 
-## C. Ideación
+## C. User Persona:  
+
+  ![UserPersona](assets/images/9.png)
+
+## D. BMC:
+
+  ![UserPersona](assets/images/9.png)
+
+## E. PROTOTIPADO:
+
+### Actividades:
+
+* Se utilizó Figma para el desarrollo de las vistas y Marvel para darle interacción a las vistas del prototipo-
+
+* Prototipo Deskopt: [Ver Prototipo](https://marvelapp.com/3231g2i/screen/40035363)
+
+* Prototipo Movile: [Ver Prototipo](https://marvelapp.com/3232894/screen/40036119)
+
+## D. TESTING:
+
+**Testing Prototipo Baja Fidelidad**
+
+*
+
+**Testing Prototipo Alta Fidelidad**
+
+*
